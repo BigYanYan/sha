@@ -1,0 +1,46 @@
+淘宝镜像css初始化
+ie6.7以下 margin padding差异大
+
+hcharts
+在低版本中ie4 严格模式
+禁用ie安全模式
+不要用太高版本的jq
+使用X-UA-Compatible来设置IE浏览器兼容模式
+
+
+ecahrts简装包  echarts.common.min.js
+ie兼容ecahrts
+
+
+
+
+块属性浮动后有左右的margin ie6显示比较大
+将块属性转化行内 display inline
+
+ie图片bug
+浮动
+
+
+hack 样式
+ie6认识 _ he *
+ie7认识 *
+
+css兼容 
+层级 最高     ！important
+
+
+
+
+px: pixels(像素). 不同设备显示效果相同
+
+pt: point，是一个标准的长度单位，1pt＝1/72英寸
+
+sp: scaled pixels(放大像素). 主要用于字体显示
+
+dp（与密度无关的像素）：一种基于屏幕密度的抽象单位
+
+
+禁止用户缩放
+viewport 
+百分比
+rem
